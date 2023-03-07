@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on [Angular Dota API](https://github.com/maksim-volkmann/angular-dota-api)
 
 - 🌱 Other projects:
-[Calculator](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/calculator)
-[Virtual Keyboard](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/Rss_virtual_keyboard)
+[Calculator](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/calculator), 
+[Virtual Keyboard](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/Rss_virtual_keyboard), 
 [English for kids](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/english_for_kids)
 
 <h3 align="left">Connect with me:</h3>

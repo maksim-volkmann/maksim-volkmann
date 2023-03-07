@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maksim</h1>
+<h1 align="center">Hi 👋, My name is Maksim</h1>
 <h3 align="center">A passionate web developer from Lithuania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksim-volkmann&label=Profile%20views&color=0e75b6&style=flat" alt="maksim-volkmann" /> </p>
@@ -6,9 +6,9 @@
 - 🔭 I’m currently working on [Angular Dota API](https://github.com/maksim-volkmann/angular-dota-api)
 
 - 🌱 Other projects:
-- [Calculator](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/calculator)
-- [Virtual Keyboard](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/Rss_virtual_keyboard)
-- [English for kids](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/english_for_kids)
+[Calculator](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/calculator)
+[Virtual Keyboard](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/Rss_virtual_keyboard)
+[English for kids](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/english_for_kids)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

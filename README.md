@@ -8,7 +8,8 @@
 - 🌱 Other projects:
 [Calculator](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/calculator), 
 [Virtual Keyboard](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/Rss_virtual_keyboard), 
-[English for kids](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/english_for_kids)
+[English for kids](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/english_for_kids),
+Food recipes sharing app [Frontend](https://github.com/maksim-volkmann/share-your-food-recipes) and [Backend](https://github.com/maksim-volkmann/mern_backend)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

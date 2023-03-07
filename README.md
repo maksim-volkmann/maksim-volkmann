@@ -10,8 +10,6 @@
 - [Virtual Keyboard](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/Rss_virtual_keyboard)
 - [English for kids](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/english_for_kids)
 
-- 👯 I’m looking to collaborate on [Angular Dota API](https://github.com/maksim-volkmann/angular-dota-api)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sirgoldman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sirgoldman" height="30" width="40" /></a>

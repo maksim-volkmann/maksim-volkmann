@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksim-volkmann&label=Profile%20views&color=0e75b6&style=flat" alt="maksim-volkmann" /> </p>
 
-- 🔭 I’m currently working on Angular Dota API [Live](https://maksim-volkmann.github.io/angular-dota-api/) | [Code](https://github.com/maksim-volkmann/angular-dota-api)
+- 🔭 I’m currently at [42Heilbronn](https://www.42heilbronn.de/en/) School.
 
-- 🎮 Mini Game hub [Live](https://riofalk.github.io/Memory_game/) | [Code](https://github.com/maksim-volkmann/Mini-game-hub)
+- 🎮 Mini Game hub [Live](https://riofalk.github.io/Memory_game/) | [Code](https://github.com/maksim-volkmann/Mini-game-hub) | Angular Dota API [Live](https://maksim-volkmann.github.io/angular-dota-api/) | [Code](https://github.com/maksim-volkmann/angular-dota-api)
 
 - 🌱 Other projects:
 [Calculator](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/calculator), 

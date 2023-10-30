@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Maksim</h1>
-<h3 align="center">A passionate web developer from Lithuania</h3>
+<h3 align="center">A developer from Lithuania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksim-volkmann&label=Profile%20views&color=0e75b6&style=flat" alt="maksim-volkmann" /> </p>
 

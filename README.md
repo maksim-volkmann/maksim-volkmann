@@ -3,13 +3,15 @@
 
 - 🎓 I’m currently enrolled at [42Heilbronn](https://www.42heilbronn.de/en/) School.
 
-- 🎮 Mini Game hub [Live](https://riofalk.github.io/Memory_game/) | [Code](https://github.com/maksim-volkmann/Mini-game-hub) | Angular Dota API [Live](https://maksim-volkmann.github.io/angular-dota-api/) | [Code](https://github.com/maksim-volkmann/angular-dota-api)
+- 🎮 Mini Game hub [Live](https://riofalk.github.io/Memory_game/) | [Code](https://github.com/maksim-volkmann/Mini-game-hub) |
 
-- 🌱 Other projects:
-[Calculator](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/calculator), 
-[Virtual Keyboard](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/Rss_virtual_keyboard), 
-[English for kids](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/english_for_kids),
-Food recipes sharing app [Frontend](https://github.com/maksim-volkmann/share-your-food-recipes) and [Backend](https://github.com/maksim-volkmann/mern_backend).
+<h3> 🗃 Projects:</h3><br>
+- Mini Game hub [Live](https://riofalk.github.io/Memory_game/) | [Code](https://github.com/maksim-volkmann/Mini-game-hub)</br>
+- Angular Dota API [Live](https://maksim-volkmann.github.io/angular-dota-api/) | [Code](https://github.com/maksim-volkmann/angular-dota-api)</br>
+- [Calculator](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/calculator)</br>
+- [Virtual Keyboard](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/Rss_virtual_keyboard)</br>
+- [English for kids](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/english_for_kids)</br>
+- Food recipes sharing app [Frontend](https://github.com/maksim-volkmann/share-your-food-recipes) and [Backend](https://github.com/maksim-volkmann/mern_backend).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

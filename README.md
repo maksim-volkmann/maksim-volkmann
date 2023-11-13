@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, My name is Maksim</h1>
-<h3 align="center">A developer from Lithuania</h3>
-
+<h2>Hey 👋</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maksim-volkmann&label=Profile%20views&color=0e75b6&style=flat" alt="maksim-volkmann" /> </p>
 
-- 🔭 I’m currently at [42Heilbronn](https://www.42heilbronn.de/en/) School.
+- 🎓 I’m currently enrolled at [42Heilbronn](https://www.42heilbronn.de/en/) School.
 
 - 🎮 Mini Game hub [Live](https://riofalk.github.io/Memory_game/) | [Code](https://github.com/maksim-volkmann/Mini-game-hub) | Angular Dota API [Live](https://maksim-volkmann.github.io/angular-dota-api/) | [Code](https://github.com/maksim-volkmann/angular-dota-api)
 

@@ -3,9 +3,12 @@
 
 - 🎓 I’m currently enrolled at [42Heilbronn](https://www.42heilbronn.de/en/) School.
 
-- 🎮 Mini Game hub [Live](https://riofalk.github.io/Memory_game/) | [Code](https://github.com/maksim-volkmann/Mini-game-hub) |
+<h3> 💻 My projects from 42:</h3>
 
-<h3> 🗃 Projects:</h3><br>
+- [Libft](https://github.com/maksim-volkmann/Libft)
+
+<h3> 🗃 Other Projects:</h3>
+
 - Mini Game hub [Live](https://riofalk.github.io/Memory_game/) | [Code](https://github.com/maksim-volkmann/Mini-game-hub)</br>
 - Angular Dota API [Live](https://maksim-volkmann.github.io/angular-dota-api/) | [Code](https://github.com/maksim-volkmann/angular-dota-api)</br>
 - [Calculator](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/calculator)</br>

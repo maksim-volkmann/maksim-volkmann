@@ -6,6 +6,7 @@
 <h3> 💻 My projects from 42:</h3>
 
 - [Libft](https://github.com/maksim-volkmann/Libft)
+- [Born2beroot](https://github.com/maksim-volkmann/born2beroot)
 
 <h3> 🗃 Other Projects:</h3>
 

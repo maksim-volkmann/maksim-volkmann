@@ -10,7 +10,7 @@
 
 <h3> 🗃 Other Projects:</h3>
 
-- Mini Game hub [Live](https://riofalk.github.io/Memory_game/) | [Code](https://github.com/maksim-volkmann/Mini-game-hub)</br>
+- Mini Game hub [Live](https://maksim-volkmann.github.io/minigames-hub/) | [Code](https://github.com/maksim-volkmann/minigames-hub)</br>
 - Angular Dota API [Live](https://maksim-volkmann.github.io/angular-dota-api/) | [Code](https://github.com/maksim-volkmann/angular-dota-api)</br>
 - [Calculator](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/calculator)</br>
 - [Virtual Keyboard](https://rolling-scopes-school.github.io/sirgoldman-JSFELT/Rss_virtual_keyboard)</br>

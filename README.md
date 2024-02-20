@@ -5,8 +5,11 @@
 
 <h3> 💻 My projects from 42:</h3>
 
+- [FizzBuzz Checker](https://maksim-volkmann.github.io/fizzbuzz-checker)
 - [Libft](https://github.com/maksim-volkmann/Libft)
 - [Born2beroot](https://github.com/maksim-volkmann/born2beroot)
+- [GetNextLine](https://github.com/maksim-volkmann/get_next_line)
+- [vt_printf](https://github.com/maksim-volkmann/ft_printf)
 
 <h3> 🗃 Other Projects:</h3>
 

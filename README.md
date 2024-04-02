@@ -8,8 +8,10 @@
 - [FizzBuzz Checker](https://maksim-volkmann.github.io/fizzbuzz-checker)
 - [Libft](https://github.com/maksim-volkmann/Libft)
 - [Born2beroot](https://github.com/maksim-volkmann/born2beroot)
-- [GetNextLine](https://github.com/maksim-volkmann/get_next_line)
-- [vt_printf](https://github.com/maksim-volkmann/ft_printf)
+- [get_next_line](https://github.com/maksim-volkmann/get_next_line)
+- [ft_printf](https://github.com/maksim-volkmann/ft_printf)
+- [so_long](https://github.com/maksim-volkmann/so_long)
+- [push_swap](https://github.com/maksim-volkmann/push_swap) _(in progress)_
 
 <h3> 🗃 Other Projects:</h3>
 

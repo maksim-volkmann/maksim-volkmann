@@ -11,7 +11,8 @@
 - [get_next_line](https://github.com/maksim-volkmann/get_next_line)
 - [ft_printf](https://github.com/maksim-volkmann/ft_printf)
 - [so_long](https://github.com/maksim-volkmann/so_long)
-- [push_swap](https://github.com/maksim-volkmann/push_swap) _(in progress)_
+- [push_swap](https://github.com/maksim-volkmann/push_swap)
+- [pipex](https://github.com/maksim-volkmann/pipex) _(in progress)_
 
 <h3> 🗃 Other Projects:</h3>
 

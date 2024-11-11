@@ -14,7 +14,7 @@
 - [push_swap](https://github.com/maksim-volkmann/push_swap)
 - [pipex](https://github.com/maksim-volkmann/pipex)
 
-<a href="https://example.com" target="_blank">Visit Example</a>
+
 
 
 

@@ -12,7 +12,11 @@
 - [ft_printf](https://github.com/maksim-volkmann/ft_printf)
 - [so_long](https://github.com/maksim-volkmann/so_long)
 - [push_swap](https://github.com/maksim-volkmann/push_swap)
-- [pipex](https://github.com/maksim-volkmann/pipex) _(in progress)_
+- [pipex](https://github.com/maksim-volkmann/pipex)
+
+<a href="https://example.com" target="_blank">Visit Example</a>
+
+
 
 <h3> 🗃 Other Projects:</h3>
 

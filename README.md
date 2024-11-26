@@ -13,7 +13,10 @@
 - [so_long](https://github.com/maksim-volkmann/so_long)
 - [push_swap](https://github.com/maksim-volkmann/push_swap)
 - [pipex](https://github.com/maksim-volkmann/pipex)
-
+- [Philosophers](https://github.com/maksim-volkmann/Philosophers)
+- [minishell](https://github.com/maksim-volkmann/minishell)
+- [Learning CPP](https://github.com/maksim-volkmann/42-CPP-exercises)
+- [cub3d](https://github.com/maksim-volkmann/Cub3d)
 
 
 

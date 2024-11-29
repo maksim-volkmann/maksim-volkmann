@@ -15,7 +15,7 @@
 - [pipex](https://github.com/maksim-volkmann/pipex)
 - [Philosophers](https://github.com/maksim-volkmann/Philosophers)
 - [minishell](https://github.com/maksim-volkmann/minishell)
-- [Learning CPP](https://github.com/maksim-volkmann/42-CPP-exercises)
+- [CPP exercises](https://github.com/maksim-volkmann/42-CPP-exercises)
 - [cub3d](https://github.com/maksim-volkmann/Cub3d)
 
 

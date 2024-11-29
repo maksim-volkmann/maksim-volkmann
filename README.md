@@ -36,7 +36,6 @@
 <a href="https://twitter.com/volkmann_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="volkmann_dev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maksim-volkmann-93165383" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maksim-volkmann-93165383" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/maksim-volkmann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maksim-volkmann" height="30" width="40" /></a>
-<a href="https://codepen.io/sirgoldman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/codepen.svg" alt="maksim-volkmann" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
